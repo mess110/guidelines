@@ -7,6 +7,7 @@ Este incurajata folosirea doar a tehnologiilor si versiunilor specificate mai jo
 | ------------- |:----------------:| :--------:|
 | MySQL      	| Ultima versiune* | [link]    |
 | MariaDB       | Ultima versiune* | [link]    |
+| PostgreSQL    | Ultima versiune* | [link](https://www.postgresql.org/)    |
 
 \* Prin "Ultima versiune" se intelege ultima versiune stabila publicata. Fara alpha, beta, rc etc
 
